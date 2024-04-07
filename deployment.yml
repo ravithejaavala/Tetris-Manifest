@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: tetris
-        image: ravi8008/tetrisv1:latest
+        image: ravitheja8008/ravirepo:latest
         ports:
         - containerPort: 3000   # Use port 3000
 
